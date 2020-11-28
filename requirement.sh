@@ -14,4 +14,4 @@ figlet -f big  Congratulation Done  !!! | lolcat
 echo
 echo -e "\e[1m Now Run termuxstyling.sh...!!!"
 echo
-echo -e "\e[1m\e[32m Developed by :\e[33m Sikho Ethical Hacking (seh)"
+echo -e "\e[1m\e[32m Developed by :\e[33m Pinkraj hacker )"
